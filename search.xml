@@ -4,6 +4,27 @@
   
     
     <entry>
+      <title>我的第一个文件</title>
+      <link href="/2022/06/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E4%BB%B6/"/>
+      <url>/2022/06/11/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%96%87%E4%BB%B6/</url>
+      
+        <content type="html"><![CDATA[<p>十五、文章分享功能<br>addThis、sharejs、addtoany三个选一个开启</p><p>addThis官网：<a href="https://www.addthis.com/">https://www.addthis.com/</a></p><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"># Share System (分享功能)</span><br><span class="line"># --------------------------------------</span><br><span class="line"></span><br><span class="line"># AddThis</span><br><span class="line"># https://www.addthis.com/</span><br><span class="line">addThis:</span><br><span class="line">  enable: false</span><br><span class="line">  pubid:  #访问 AddThis 官网, 找到你的 pub-id</span><br><span class="line"></span><br><span class="line"># Share.js</span><br><span class="line"># https://github.com/overtrue/share.js</span><br><span class="line">sharejs:</span><br><span class="line">  enable: true  #我开启的</span><br><span class="line">  sites: facebook,twitter,wechat,weibo,qq  #想要显示的内容</span><br><span class="line"></span><br><span class="line"># AddToAny</span><br><span class="line"># https://www.addtoany.com/</span><br><span class="line">addtoany:</span><br><span class="line">  enable: false</span><br><span class="line">  item: facebook,twitter,wechat,sina_weibo,facebook_messenger,email,copy_link</span><br><span class="line"></span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> 文件 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/2022/06/10/hello-world/"/>
       <url>/2022/06/10/hello-world/</url>
